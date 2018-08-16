@@ -1,0 +1,181 @@
+h1{
+  color:#4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-top: 0px;
+  padding: 10px;
+  border-bottom: 2px solid #dddddd;
+}
+
+.Main_Content{
+  background-color: #ffffff;
+  width: 900px;
+  align-content: center;
+  margin: 0 auto;
+  font-size: 15px;
+  padding: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #dddddd;
+  color: #777777;
+}
+
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-bottom: 2px solid #dddddd;
+}
+
+li {
+  float: left;
+}
+
+li a:hover {
+  color: #4aaaa5;
+}
+
+li a {
+  display: block;
+  color: #777777;
+  text-align: center;
+  font-size: 15px;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4aaaa5;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 357px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.topnav-right {
+  float: right;
+  margin-right: 350px;
+}
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: xx-small;
+  padding:20px;
+  clear: both;
+  background: #666666;
+  border-top: 5px solid #4aaaa5;
+  color: #ffffff;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */  
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4aaaa5;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #4aaaa5;
+}
+
+
+.group1{
+  position:relative;
+}
+ 
+
+.group2{
+position:relative;
+float: right;
+top: -512px;
+left: -450px;
+}
+
+
+
+.coffee{
+  position: relative;
+  background-color: #4aaaa5;
+  width: 200px;
+  left: 0px;
+  top: -30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.paris-street{
+  position: relative;
+  background-color: #4aaaa5;
+  width: 200px;
+  left: 0px;
+  top: -30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.coffee-bar{
+  position: relative;
+  background-color: #4aaaa5;
+  width: 200px;
+  left: 0px;
+  top: -30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.golf-in-costa-rica{
+  position: relative;
+  background-color: #4aaaa5;
+  width: 200px;
+  left: 0px;
+  top: -30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+
+.sunset-at-home{
+  position: relative;
+  background-color: #4aaaa5;
+  width: 200px;
+  left: 0px;
+  top: -30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
